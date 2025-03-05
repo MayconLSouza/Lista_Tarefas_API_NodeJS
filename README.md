@@ -16,7 +16,7 @@ Esta é uma API para gerenciar uma lista de tarefas. Ela permite que você crie,
 
 3. Configure o banco de dados MySQL e as variáveis de ambiente.
 
-4. Execute o servidor:
+4. Inicie o sistema:
    ```bash
    node app.js
    ```
