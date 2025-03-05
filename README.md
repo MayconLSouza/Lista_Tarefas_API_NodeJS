@@ -18,7 +18,7 @@ Esta é uma API para gerenciar uma lista de tarefas. Ela permite que você crie,
 
 4. Execute o servidor:
    ```bash
-   npm start
+   node app.js
    ```
 
 ## Tecnologias utilizadas
